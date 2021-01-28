@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "Python: shopping",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}\\shopping.py",
+            "args": [],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+    ]
+}
